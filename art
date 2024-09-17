@@ -1,0 +1,6 @@
+import pyfiglet
+
+text = pyfiglet.print_figlet(text="BRANDON", colors="RED", font="Big")
+text = pyfiglet.print_figlet(text="GABRIEL", colors="RED", font="Big")
+text = pyfiglet.print_figlet(text="LOPEZ", colors="RED", font="Big")
+print(text) 
